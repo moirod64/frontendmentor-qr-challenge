@@ -50,5 +50,5 @@ Continue to focus on improving CSS skills.
 ## Author
 
 - Website - [MoiRod](https://github.com/moirod64)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/moirod64)
+- Frontend Mentor - [@moirod64](https://www.frontendmentor.io/profile/moirod64)
 - Twitter - [@moirod64](https://www.twitter.com/moirod64) // Not a regular Twitter user
